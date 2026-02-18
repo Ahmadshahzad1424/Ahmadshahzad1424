@@ -41,11 +41,6 @@ When not coding, I explore AI projects, experiment with new frameworks, and cont
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadshahzad1424&show_icons=true&theme=dark&hide_border=true" alt="Ahmad's GitHub Stats"/>
-</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmadshahzad1424\&style=for-the-badge)
 
@@ -68,5 +63,3 @@ When not coding, I explore AI projects, experiment with new frameworks, and cont
 
 </div>  
 
-
-Do you want me to do that?
