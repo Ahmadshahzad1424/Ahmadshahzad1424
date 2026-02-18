@@ -1,117 +1,64 @@
-# Ahmad Shahzad
+# Hi, I'm Ahmad Shahzad
 
 <div align="center">
-  <img src="profile.jpg" alt="Ahmad Shahzad" width="900"/>
+  <img src="profile.jpg" alt="Ahmad Building AI" width="900"/>
 </div>
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF4B4B?style=for-the-badge&logo=keras&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-FFD700?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Dev-FFD700?style=for-the-badge\&logo=react\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 </div>
 
----
+## About Me
 
-## 👨‍💻 Professional Summary
+Passionate **AI & Web Developer**
+I build intelligent apps with **AI, Deep Learning, NLP**, and **Web Technologies** using Python, MERN stack, and more.
 
-Full-Stack & AI Developer focused on building scalable, production-grade applications powered by modern Artificial Intelligence.
+When not coding, I explore AI projects, experiment with new frameworks, and contribute to my GitHub portfolio.
 
-I specialize in designing intelligent systems and integrating them with robust web architectures. My work combines:
+## My Journey
 
-- Advanced Machine Learning & Deep Learning
-- Full-Stack Web Engineering (MERN)
-- AI-Driven Automation & Deployment
-- Clean, scalable, maintainable code architecture
+* Learning Python, Artificial Intelligence, Deep Learning (TensorFlow/Keras), NLP, and Computer Vision
+* Building portfolio projects: Login Systems, Netflix Clone, Task Boards, and E-commerce templates
+* Currently exploring advanced AI models and web integrations
 
-I approach development with a systems mindset — performance, scalability, and clarity always come first.
+## Current Position
 
----
+* Student at **University of Agriculture Peshawar**, pursuing BS in Artificial Intelligence (2023–2027)
 
-## 🧠 Core Competencies
+## Tech Stack
 
-### Artificial Intelligence & Data Science
-- Python
-- TensorFlow / Keras
-- PyTorch (foundational)
-- Scikit-Learn
-- OpenCV
-- NLP (Transformers, Tokenization, Vectorization)
-- Data preprocessing & feature engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-### Full-Stack Development
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Authentication systems
-- Modular component architecture
 
-### Engineering & Deployment
-- Git & GitHub workflows
-- Environment configuration
-- Streamlit deployment
-- CI/CD fundamentals
-- Code optimization & refactoring
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmadshahzad1424\&style=for-the-badge)
 
----
+## Featured Projects
 
-## 🚀 Selected Projects
+* **[Netflix Clone](https://github.com/Ahmadshahzad1424/netflix_clone)**
+  A front-end HTML/CSS project replicating Netflix layout
+* **[MegaStore](https://github.com/Ahmadshahzad1424/megastore)**
+  E-commerce front-end template built with HTML & CSS
+* **[Task Board](https://github.com/Ahmadshahzad1424/Task_Board)**
+  Task management board to organize projects and workflows
 
-### 🎬 Netflix Clone
-Frontend architecture replicating modern streaming platform UI.  
-Responsive layout, modular CSS structure, clean component hierarchy.
-
-### 🛒 MegaStore
-E-commerce template engineered with reusable components and structured styling.  
-Focused on scalability and clean frontend design.
-
-### 📋 Task Board
-Kanban-style project management system.  
-Task structuring, workflow visualization, and organized UI logic.
-
-### 🤖 AI Experiments & Models
-Machine Learning and Deep Learning experiments including:
-- Predictive modeling
-- NLP pipelines
-- Data preprocessing workflows
-- Model evaluation and optimization
-
----
-
-## 📊 GitHub Analytics
+## My Socials
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmadshahzad1424&show_icons=true&theme=dark&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmad-shahzad-14f24)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ahmadshahzad1424)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Advanced Deep Learning Architectures
-- Agentic AI Systems
-- Production-ready AI Deployment
-- Backend system scalability
-- Building enterprise-grade applications
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-shahzad-14f24)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadshahzad1424)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-> Engineering intelligent systems. Building scalable solutions. Thinking long-term.
+</div>  
