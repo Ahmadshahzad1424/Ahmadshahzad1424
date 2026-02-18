@@ -1,7 +1,7 @@
 # Hi, I'm Ahmad Shahzad
 
 <div align="center">
-  <img src="profile.png" alt="Ahmad Building AI" width="700"/>
+  <img src="profile.jpg" alt="Ahmad Building AI" width="700"/>
 </div>
 
 <div align="center">
