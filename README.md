@@ -1,12 +1,11 @@
 # Hi, I'm Ahmad Shahzad
 
 <div align="center">
-  <video width="900" controls autoplay loop muted>
-    <source src="project.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="profile.jng" alt="Ahmad Building AI" width="900"/>
+  <video
 </div>
-<div align="center">
+
+but this is img and but it's video
 
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Dev-FFD700?style=for-the-badge\&logo=react\&logoColor=black)
