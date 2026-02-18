@@ -1,11 +1,10 @@
 # Hi, I'm Ahmad Shahzad
 
 <div align="center">
-  <img src="profile.jng" alt="Ahmad Building AI" width="900"/>
-  <video
+  <img src="profile.jpg" alt="Ahmad Building AI" width="900"/>
 </div>
 
-but this is img and but it's video
+<div align="center">
 
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Dev-FFD700?style=for-the-badge\&logo=react\&logoColor=black)
@@ -63,4 +62,3 @@ When not coding, I explore AI projects, experiment with new frameworks, and cont
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
 
 </div>  
-
