@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Ahmad Shahzad
 
+
+
+<div align="center"> <img src="profile.jpg" alt="Ahmad Building AI" width="900"/> </div>
+
 <div align="center">
 
 ### AI Engineer | Agentic AI Developer | Full-Stack Developer
@@ -8,7 +12,6 @@ Building AI Agents, RAG Systems, LLM Applications, and Intelligent Automation Wo
 
 </div>
 
-<div align="center"> <img src="profile.jpg" alt="Ahmad Building AI" width="900"/> </div>
 ---
 
 ## 🚀 About Me
